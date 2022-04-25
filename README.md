@@ -1,4 +1,4 @@
-### Hi there 👋
+[![S0URON's GitHub stats](https://github-readme-stats.vercel.app/api?username=s0uron)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **S0URON/s0uron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
